@@ -25,5 +25,5 @@ my project partners.
 ```
 
 <h3 style = "text-align:center;white-space:pre-wrap;">
-<a href = "https://github.com/rah379/RISK"  target="_blank" rel = "noopener noreferrer"><img src= "./assets/img/github_repo.jpeg" width = 150 height = 150></a><a href = "https://youtu.be/nBXjyttmT8E"  target="_blank" rel = "noopener noreferrer"><img src= "./assets/img/demo_icon.jpeg" width = 10 height = 150></a>
+<a href = "https://github.com/rah379/RISK"  target="_blank" rel = "noopener noreferrer"><img src= "./assets/img/github_repo.jpeg" width = 150 height = 150></a><a href = "https://youtu.be/nBXjyttmT8E"  target="_blank" rel = "noopener noreferrer"><img src= "./assets/img/demo_icon.jpeg" width = 150 height = 150></a>
 </h3>
