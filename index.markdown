@@ -1,6 +1,23 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
+
+<h1 style = "text-align:center;white-space:pre-wrap;">
+./Main_Page
+</h1>
+
+```js
+                       main.txt
+
+Undergraduate Student at Cornell University,
+studying Computer Science and Mathematics.
+
+Languages: Python, Java, OCaml, C, MATLAB
+
+Tools: R, R Markdown, LaTeX, Git, NumPy, MatPlotLib
+```
+<h3 style = "text-align:left;white-space:pre-wrap;">
+<a href = "./about.html"><img src= "./assets/img/about_me.jpeg" width = 160 height = 160></a><a href = "./all_projects.html"><img src= "./assets/img/projects.jpeg" width = 160 height = 160></a><a href = "https://www.linkedin.com/in/rowan-hennessy-27a005226/"><img src = "./assets/img/linkedin_icon.jpeg" width = 160 height = 160></a>
+
+<a href = "./education.html"><img src= "./assets/img/education_and_work.jpeg" width = 160 height = 160></a><a href = "https://github.com/rah379"><img src= "./assets/img/github.jpeg" width = 160 height = 160></a><a href = "mailto:hennessyrowan@gmail.com"><img src= "./assets/img/email_icon.jpeg" width = 160 height = 160></a>
+</h3>
