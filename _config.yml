@@ -28,7 +28,7 @@ baseurl: "/"
 url: "https://rah379.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  rah379
-logo: /assets/img/logo_two.png
+logo: /assets/img/gc.png
 
 # Build settings
 # remote_theme: pages-themes/slate@v0.2.0
