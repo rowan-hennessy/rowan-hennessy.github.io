@@ -27,5 +27,5 @@ Trail Staff, YMCA Camp Widjiwagan:
   - Dates: Summers 2022, 2023, 2024
 ```
 <h3 style = "text-align:center;white-space:pre-wrap;">
-<a href = "./assets/pdf/unofficial_transcript.pdf" target="_blank" rel = "noopener noreferrer"><img src = "./assets/img/full_coursework.jpeg" width = 120 height = 120></a><a href = "mailto:hennessyrowan@gmail.com"><img src= "./assets/img/for_resume_and_transcript.jpeg" width = 120 height = 120></a>
+<a href = "./trips.html"><img src= "./assets/img/wilderness_tripping.jpeg" width = 120 height = 120></a><a href = "./assets/pdf/unofficial_transcript.pdf" target="_blank" rel = "noopener noreferrer"><img src = "./assets/img/full_coursework.jpeg" width = 120 height = 120></a><a href = "./assets/pdf/evals.pdf" target= "_blank" rel = "noopener noreferrer"><img src= "./assets/img/evals.jpeg" width = 120 height = 120></a><a href = "mailto:hennessyrowan@gmail.com"><img src= "./assets/img/for_resume_and_transcript.jpeg" width = 120 height = 120></a>
 </h3>
