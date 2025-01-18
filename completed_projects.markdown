@@ -6,6 +6,21 @@ layout: default
 </h1>
 
 <h3 style = "text-align:center;white-space:pre-wrap;">
+<a href = "./spelling_bee.html"><img src= "./assets/img/spelling-bee-icon.png" width = 140 height = 140></a>
+</h3>
+
+```
+              analysis_of_spellingbee.txt
+        
+Brief: Analyzing the popular NYT Game Spelling Bee
+       to find methods of solving, as well as 
+       generalization
+Language: Python
+```
+
+
+
+<h3 style = "text-align:center;white-space:pre-wrap;">
 <a href = "./buildacache.html"><img src= "./assets/img/cache.png" width = 140 height = 140></a>
 </h3>
 
