@@ -18,7 +18,7 @@ and match the user with politicians who have tweeted
 similar political beliefs to the query. 
 
   We used SVD and sentiment analysis as an attempt to
-match the user's sentiment, rather than an edit
+match the user's sentiment, rather than an arbitrary
 distance based search engine. 
 
   Below are links to the repo, as well as an example

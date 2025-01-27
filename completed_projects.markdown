@@ -18,6 +18,32 @@ Brief: Analyzing the popular NYT Game Spelling Bee
 Language: Python
 ```
 
+<h3 style = "text-align:center;white-space:pre-wrap;">
+<a href = "./polipredictor.html"><img src= "./assets/img/polipredictor.png" width = 140 height = 140></a>
+</h3>
+
+```
+                    polipredictor.txt
+        
+Brief: Search engine matching user query with
+       potential politicians based on tweets. 
+Language: Python
+(No longer hosted on server)
+```
+
+<h3 style = "text-align:center;white-space:pre-wrap;">
+<a href = "./seagull.html"><img src= "./assets/img/seagull.png" width = 140 height = 140></a>
+</h3>
+
+```
+                      seagull.txt
+        
+Brief: Re-implemented custom LLM intended to generate
+       captions from descriptions of NYT Cartoons
+Language: Python
+(Only explanation of project for AI reasons.)
+```
+
 
 
 <h3 style = "text-align:center;white-space:pre-wrap;">
@@ -46,31 +72,6 @@ Brief: Implemented board game RISK in OCaml, w/
 Language: OCaml
 ```
 
-<h3 style = "text-align:center;white-space:pre-wrap;">
-<a href = "./polipredictor.html"><img src= "./assets/img/polipredictor.png" width = 140 height = 140></a>
-</h3>
-
-```
-                    polipredictor.txt
-        
-Brief: Search engine matching user query with
-       potential politicians based on tweets. 
-Language: Python
-(No longer hosted on server)
-```
-
-<h3 style = "text-align:center;white-space:pre-wrap;">
-<a href = "./seagull.html"><img src= "./assets/img/seagull.png" width = 140 height = 140></a>
-</h3>
-
-```
-                      seagull.txt
-        
-Brief: Re-implemented LLM intended to generate humorous
-       captions from descriptions of NYT Cartoons
-Language: Python
-(Only explanation of project for AI reasons.)
-```
 
 <h3 style = "text-align:center;white-space:pre-wrap;">
 <a href = "./assets/pdf/Math_4220_Project.pdf"  target="_blank" rel = "noopener noreferrer"><img src= "./assets/img/applied_ca.jpeg" width = 140 height = 140></a>
