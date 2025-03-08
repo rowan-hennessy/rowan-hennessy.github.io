@@ -6,3 +6,4 @@ vendor
 Gemfile.lock
 reminder.txt~
 .ruby-version
+.DS_Store
