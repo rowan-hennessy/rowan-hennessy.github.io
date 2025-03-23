@@ -8,21 +8,31 @@ layout: default
 ```
                 education_&_work.txt
 
+MS, Columbia University
+  - Studying: {Operations Research}
+  - Location: New York, New York
+  - Dates: **incoming** Aug. 2025
+
 BA, Cornell University College of Arts & Sciences:
   - Majors: {Computer Science, Mathematics}
   - Location: Ithaca, New York
-  - Dates Attended: [Aug. 2021, May 2025]
+  - Dates: [Aug. 2021, May 2025]
+
+Software Engineering Intern, Finz
+ - Dates: [Jan. 2025 - Pres.]
 
 Teaching Assistant, Cornell University
   - CS 4300: Language and Information 
-    - Dates: [Jan. 2024 - Pres.]
+    - Dates: [Jan. 2025 - Pres.]
   - CS 3110: Functional Prog. & Data Struct.
     - Dates: [Jan. 2024 - Dec. 2024]
+
 Consultant, Cornell University:
   - CS 3110: Functional Prog. & Data Struct. 
     - Dates: [Aug. 2023 - Dec. 2023]
   - CS 2110: Obj-Oriented Prog. & Data Struct.
     - Dates: [Jan. 2023 - May 2023]
+
 Trail Staff, YMCA Camp Widjiwagan:
   - Dates: Summers 2022, 2023, 2024
 ```
