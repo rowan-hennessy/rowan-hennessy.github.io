@@ -83,3 +83,15 @@ Language: OCaml
 Brief: Informal research into use of Complex Analysis
        in quantum computing
 ```
+
+
+<h3 style = "text-align:center;white-space:pre-wrap;">
+<a href = "./assets/pdf/Laplacian.pdf"  target="_blank" rel = "noopener noreferrer"><img src= "./assets/img/laplacian.jpeg" width = 140 height = 140></a>
+</h3>
+
+```
+                 Laplacian_Matrices.txt
+        
+Brief: Examining algebraic connectivity of a social
+       network
+```

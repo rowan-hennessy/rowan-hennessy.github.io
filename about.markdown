@@ -12,16 +12,19 @@ in Cornell University's College of Arts & Sciences. I'm
 pursuing a degree in Computer Science and Math, 
 and am expected to graduate in May, 2025. 
 
-  I'm originally from New Albany, Ohio, and was
-indoctrinated into the cult of Ohio State Football at a
-very young age. In my free time, I enjoy reading pretty
-much anything. Some of my favorite books are:
+  Next year, I will be attending Columbia University's 
+School of Engineering and Applied Sciences, pursuing a
+Master of Science in Operations Research. 
+
+  I'm originally from New Albany, Ohio, and in my free
+time, I enjoy reading pretty much anything. Some of my
+favorite books are:
 
     - Normal People, by Sally Rooney
     - Cloud Cuckoo Land, by Anthony Doerr
     - The Wheel of Time Series, by Robert Jordan
 
-  I also enjoy wilderness tripping and being outside
+  I also enjoy wilderness tripping and being outside!
 ```
 ```
                 academic_interests.txt
