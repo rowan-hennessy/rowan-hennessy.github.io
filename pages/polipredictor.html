@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PoliPredictor</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+  <header>
+    <h1>PoliPredictor</h1>
+    <p>An information retrieval system using political tweets to match the user to politicians</p>
+  </header>
+
+  <nav>
+    <a href="../index.html">Go Back</a>
+    <a href="https://github.com/rowan-hennessy/Team_1_4300_Proj">Project GitHub</a>
+  </nav>
+
+  <main>
+    <section id="overview">
+      <h2>Project Overview</h2>
+      <p>
+        For CS 4300, we were tasked with creating a search
+        engine that used ad-hoc querying and a dataset we
+        we found or scraped ourselves.
+      </p>
+      <p>
+        My group decided to scrape tweets from politicians,
+        and match the user with politicians who have tweeted
+        similar political beliefs to the query.
+      </p>
+      <p>
+        We used SVD and sentiment analysis as an attempt to
+        match the user's sentiment, rather than an arbitrary
+        distance based search engine.
+      </p>
+    </section>
+
+    <section id="technologies">
+      <h2>Technologies Used</h2>
+      <ul class="no-bullets">
+        <li>Python</li>
+        <li>Information Retrieval Methods (SVD, cosine similarity)</li>
+        <li>Flask</li>
+        <li>VADER sentiment analysis</li>
+      </ul>
+    </section>
+
+    <section id="example">
+      <h2>Example Input/Output</h2>
+      <img src = "../assets/poli_demo.png" class="bottom-image">
+    </section>
+
+    <footer>
+      <p>&copy; 2025 Rowan Hennessy. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>

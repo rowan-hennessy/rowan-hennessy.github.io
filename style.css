@@ -31,7 +31,6 @@
   
   .no-bullets {
     list-style: none;
-    padding-left: 0;
   }  
 body {
     margin: 0;
@@ -93,3 +92,10 @@ body {
     font-size: 0.9rem;
     color: #64748b;
   }
+  .bottom-image {
+    display: block;
+    margin: 2rem auto;
+    max-width: 60%;
+    height: auto;
+  }
+  
