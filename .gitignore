@@ -1,13 +1,1 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-Gemfile.lock
-reminder.txt~
-.ruby-version
 .DS_Store
-README.md
-assets/.DS_Store
-assets/img/.DS_Store
-assets/pdf/.DS_Store
