@@ -98,4 +98,7 @@ body {
     max-width: 60%;
     height: auto;
   }
-  
+  .cpj-img {
+    height: 400px;
+    width: auto
+  }
